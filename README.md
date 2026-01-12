@@ -176,7 +176,7 @@ print("Spam" if prediction[0] == 1 else "Ham")
 ### 4. Prediction
 - Preprocess input message
 - Transform using TF-IDF vectorizer
-- Classify using trained model
+- Classify using a trained model
 - Return prediction with confidence score
 
 ## 📈 Model Training
@@ -209,12 +209,8 @@ Contributions are welcome! Please follow these steps:
 
 ## 🐛 Known Issues
 
-- Model may have difficulty with messages containing excessive special characters
+- The model may have difficulty with messages containing excessive special characters
 - Performance may vary with messages in languages other than English
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -227,14 +223,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - scikit-learn community for excellent ML tools
 - Flask team for the lightweight web framework
 
-## 📞 Support
 
-If you have any questions or issues, please:
-- Open an issue in the GitHub repository
-- Contact the maintainer through GitHub
-
----
-
-⭐ If you find this project useful, please consider giving it a star!
-
-**Made with ❤️ and Python**
