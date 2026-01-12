@@ -210,6 +210,13 @@ Contributions are welcome! Please follow these steps:
 - The model may have difficulty with messages containing excessive special characters
 - Performance may vary with messages in languages other than English
 
+  ## 📸 Web Application Interface
+
+Below is the user interface of the Email/SMS Spam Classifier built using Flask:
+
+![Spam Classifier Web UI](ui.png)
+
+
 ## 👨‍💻 Author
 
 **Subhadip**
