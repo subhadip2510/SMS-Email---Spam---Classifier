@@ -4,8 +4,6 @@ A machine learning-based spam detection system that classifies SMS and email mes
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange)
-![Flask](https://img.shields.io/badge/Flask-Latest-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Project Overview
 
